@@ -1,0 +1,15 @@
+{
+  "name": "1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "roylee0704 <roylee0704@gmail.com> (https://twitter.com/roylee0704)",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  }
+}
